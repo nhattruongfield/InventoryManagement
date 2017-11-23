@@ -35,10 +35,7 @@
         "../node_modules/jquery-sparkline/jquery.sparkline.min.js",
         "../plugins/jvectormap/jquery-jvectormap-1.2.2.min.js",
         "../plugins/jvectormap/jquery-jvectormap-world-mill-en.js",
-        "../node_modules/jquery-slimscroll/jquery.slimscroll.min.js",
-        "../node_modules/chart.js/Chart.js",
-        "../libs/js/pages/dashboard2.js",
-        "../libs/js/demo.js"
+        "../node_modules/jquery-slimscroll/jquery.slimscroll.min.js"
       ],
       "environmentSource": "environments/environment.ts",
       "environments": {
